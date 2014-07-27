@@ -1,3 +1,4 @@
+## Modification of Caching the Mean of a Vector example
 ## makeCacheMatrix prepares the components necessary components for creating and caching 
 ## the inverse of a square matrix.
 ## cacheSolve uses the components prepped in makeCacheMatrix to create the inverse matrix 
