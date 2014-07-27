@@ -21,7 +21,6 @@ makeCacheMatrix <- function(x = matrix()) {
         list(set = set, get = get, setinverse = setinverse, getinverse = getinverse)
 }
 
-
 ## function takes the matrix x and creates the inverse using solve().  The matrix must be square.
 ## The inverse of x is returned
 
